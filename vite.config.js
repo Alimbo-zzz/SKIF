@@ -15,7 +15,7 @@ import plugins from './modules/vitePlugins';
 
 
 export default defineConfig({
-	base: '/test/',
+	base: '/SKIF/',
   plugins,
   server:{ port: 3030 },
 	resolve:{ alias },
